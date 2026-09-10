@@ -32,7 +32,7 @@ This project fulfills Task 2 of the Prodigy InfoTech Cyber Security Internship. 
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/PRODIGY_CS_02.git
+   git clone https://github.com/sroyayan/PRODIGY_CS_02.git
    cd PRODIGY_CS_02
    ```
 
