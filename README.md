@@ -104,15 +104,7 @@ The `+ 256` in decryption ensures that even if `C_encrypted < S`, the result is 
 
 ---
 
-## 📸 Suggested Screenshots for GitHub
 
-Include the following in the `screenshots/` folder:
-1. **Menu Interface**: The initial CLI screen showing the options.
-2. **Encryption Process**: The terminal input/output during an encryption operation.
-3. **Original vs Encrypted**: A side-by-side comparison of the input image and the resulting encrypted image.
-4. **Decrypted Result**: The decrypted image compared to the original to show lossless recovery.
-
----
 
 ## 📚 Learning Outcomes
 
