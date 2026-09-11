@@ -1,6 +1,6 @@
 """
 PRODIGY_CS_02 - Image Encryption Tool
-Author: Ayan Sarkar
+Author: Ayan Singha Roy
 Task: Develop a simple image encryption tool using pixel manipulation.
 """
 
